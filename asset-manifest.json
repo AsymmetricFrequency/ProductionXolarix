@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e4f6b07.css",
-    "main.js": "/static/js/main.be034778.js",
+    "main.css": "/static/css/main.18851f4e.css",
+    "main.js": "/static/js/main.2738ccff.js",
     "static/media/radiance.png": "/static/media/radiance.d149276c8b7394b46650.png",
     "static/media/radianceThree.png": "/static/media/radianceThree.77f6bbbc3d13f14184f4.png",
     "static/media/ovalGlow.png": "/static/media/ovalGlow.de245377dc640a29cfa8.png",
@@ -17,6 +17,7 @@
     "static/media/arrowDown.png": "/static/media/arrowDown.69ffe70092ee800a365e.png",
     "static/media/money.png": "/static/media/money.3c581f367cc82234aa8e.png",
     "static/media/virtual.png": "/static/media/virtual.73d096031d192d6d7fab.png",
+    "static/media/code.png": "/static/media/code.e2c5cf7119ee6705afb0.png",
     "static/media/fintech.png": "/static/media/fintech.69b8826120a49c317e77.png",
     "static/media/ui.png": "/static/media/ui.4af8e88af114517b45b2.png",
     "static/media/triangle.png": "/static/media/triangle.2ce72f61c7fc6f356d54.png",
@@ -34,11 +35,11 @@
     "static/media/linkedin.png": "/static/media/linkedin.e6d9ad335d4d58908ca8.png",
     "static/media/logoHeader.png": "/static/media/logoHeader.3506420a814f3c5a7fdf.png",
     "index.html": "/index.html",
-    "main.6e4f6b07.css.map": "/static/css/main.6e4f6b07.css.map",
-    "main.be034778.js.map": "/static/js/main.be034778.js.map"
+    "main.18851f4e.css.map": "/static/css/main.18851f4e.css.map",
+    "main.2738ccff.js.map": "/static/js/main.2738ccff.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e4f6b07.css",
-    "static/js/main.be034778.js"
+    "static/css/main.18851f4e.css",
+    "static/js/main.2738ccff.js"
   ]
 }
